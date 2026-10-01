@@ -1,6 +1,6 @@
-# What Makes AI Chat Roleplay Immersive? 8 Elements That Make AI Characters Feel Alive
+# What Makes Friendly AI Chat Roleplay Immersive? 8 Elements That Make AI Characters Feel Alive
 
-**A practical framework for building AI characters people actually want to come back to.** Notes from building [ChatBrat.ai](https://chatbrat.ai), a free, SFW-focused AI character chat and roleplay platform with persistent memory.
+**A practical framework for building friendly, immersive AI characters people actually want to come back to.** Notes from building [ChatBrat.ai](https://chatbrat.ai), a free, friendly, SFW-focused AI character chat and roleplay platform with persistent memory.
 
 📖 **Read the full article on Medium:** [What Makes AI Chat Roleplay Immersive?](https://medium.com/@chatbrat.ai/what-makes-ai-chat-roleplay-immersive-8-elements-that-make-ai-characters-feel-alive-a7c8e8d96ffe)
 
@@ -10,9 +10,9 @@ What if your AI character didn't just want to flirt with you, but actually wante
 
 A lot of AI character experiences are built around instant chemistry. That's one version of what an AI character can be. But a character starts to feel alive when it has an accent, tells terrible jokes, remembers your favorite movie, knows you hate mornings, and brings up something you told it three weeks ago.
 
-That's where AI roleplay starts to feel less like a chatbot and more like a character.
+That's where friendly AI roleplay starts to feel less like a chatbot and more like a character.
 
-## The 8 Elements of Immersive AI Roleplay at a Glance
+## The 8 Elements of Friendly, Immersive AI Roleplay at a Glance
 
 | # | Element | What makes it immersive | Example |
 |---|---|---|---|
@@ -52,18 +52,18 @@ And there's a difference between *"The user likes pizza"* and *"We have spent th
 
 On ChatBrat, you can [create a character](https://chatbrat.ai/create), give it a scenario, and compose a larger story from those pieces.
 
-## Companionship is more than romantic chemistry
+## Friendly AI companionship is more than romantic chemistry
 
-Sometimes you want advice. Sometimes you want a joke. Sometimes you just want to say *"Today was awful"* and have someone respond *"Okay. Tell me what happened."* That's the idea behind [Tell Me What Happened](https://chatbrat.ai/scenarios/tell-me-what-happened). And when you'd rather laugh, there's [Disaster Chef](https://chatbrat.ai/scenarios/disaster-chef).
+A friendly AI character can be your sarcastic best friend, the motherly type who asks if you remembered to eat, or the friend who actually listens. Sometimes you want advice. Sometimes you want a joke. Sometimes you just want to say *"Today was awful"* and have someone respond *"Okay. Tell me what happened."* That's the idea behind [Tell Me What Happened](https://chatbrat.ai/scenarios/tell-me-what-happened). And when you'd rather laugh, there's [Disaster Chef](https://chatbrat.ai/scenarios/disaster-chef).
 
 ## The real test
 
 The test isn't whether an AI can produce one amazing response. It's what happens when you come back tomorrow. Do they remember? Do they still sound like themselves? Do they let you control your character? Can they make you laugh? Can they listen?
 
-Because the most immersive AI roleplay isn't about the most shocking conversation. It's about creating a character you actually want to come back to.
+Because the most immersive AI roleplay isn't about the most shocking conversation. It's about creating a friendly character you actually want to come back to.
 
 ---
 
-💬 **Try it:** [ChatBrat.ai](https://chatbrat.ai), free AI character chat and roleplay with persistent memory. No login required.
+💬 **Try it:** [ChatBrat.ai](https://chatbrat.ai), free, friendly AI character chat and roleplay with persistent memory. No login required.
 
 Written by Garret E. Williams, founder of [ChatBrat.ai](https://chatbrat.ai). **More:** [Full article on Medium](https://medium.com/@chatbrat.ai/what-makes-ai-chat-roleplay-immersive-8-elements-that-make-ai-characters-feel-alive-a7c8e8d96ffe) · [Long-term memory for AI characters](https://github.com/garretewilliams/ai-character-long-term-memory) · [Substack](https://garretewilliams.substack.com) · [Bratlog](https://chatbrat.ai/bratlog)
